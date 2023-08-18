@@ -1,6 +1,6 @@
 # Confluent AWS Environment
 
-- Create Confluent Networks
+- Create Confluent Networks (AWS Private Link)
 - Create Confluent Cloud Dedicated clusters
 - Share Networks on the same environment
 

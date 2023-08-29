@@ -4,7 +4,7 @@
 confluent = {
   environment = {
     id = "env-zmz2zd"
-    share_networks = true
+    share_networks = false
     networks = [
       {
         display_name    = "confluent-plink-network-dev1"

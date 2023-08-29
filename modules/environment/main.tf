@@ -30,6 +30,7 @@ module "network" {
     providers = {
       confluent.confluent_cloud = confluent
     }
+    depends_on = [module.network]
   }
 
  
